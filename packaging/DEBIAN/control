@@ -1,0 +1,13 @@
+Package: acs-cpp
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libgtk-3-0, libglib2.0-0, curl, ca-certificates
+Recommends: aircrack-ng, iw, wireless-tools, hashcat, hcxdumptool, hcxtools, proxychains4
+Maintainer: Pakun & iinze0 <iinze0@users.noreply.github.com>
+Homepage: https://github.com/iinze0/ACS-cpp
+Description: ACS C++ — Air Crack Station (Made by Pakun & iinze0)
+ Native desktop app for authorized lab / pentest work.
+ Launch with: sudo ACS-cpp
+Installed-Size: 500
